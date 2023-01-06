@@ -1,0 +1,72 @@
+
+
+@media screen and (min-width: 320px){
+    .outerdiv{
+        width: 55%;
+    }
+    .h1{
+        font-size: large;
+    }
+    p{
+        font-size: xx-small;
+    }
+    h2{
+        font-size: small;
+    }
+    pre{
+        font-size: 8px;
+    }
+}
+@media screen and (min-width: 375px){
+    .outerdiv{
+        width: 65%;
+    }
+    .h1{
+        font-size: 22px;
+    }
+    p{
+        font-size: x-small;
+    }
+    h2{
+        font-size: medium;
+    }
+    pre{
+        font-size: 8px;
+    }
+}
+
+@media screen and (min-width: 425px){
+    .outerdiv{
+        width: 75%;
+    }.h1{
+        font-size: 24px;
+    }
+    p{
+        font-size: 12px;
+    }
+    h2{
+        font-size: 18px;
+    }
+    pre{
+        font-size: 9px;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .outerdiv{
+        width: 100%;
+    }
+    .h1{
+        font-size: 32px;
+    }
+    p{
+        font-size: 16px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    pre{
+        font-size: small;
+    }
+}
+
